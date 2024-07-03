@@ -1,0 +1,29 @@
+[ModelTitle]
+Epithermal quartz-alunite Au {1993},Not Proprietary
+[ModelAuthor]
+Singer, Mosier, and Menzie(1993)
+[ModelReference]
+Singer, D.A., Mosier, D.L., and Menzie, W.D., 1993, Digital grade and tonnage data for 50 types of mineral deposits: U.S. Geological Survey Open-File Report 93-280.
+[CoxSingerModelNumber]
+25e
+[DepositMinerals]
+Cu,Yes,Au,No,Ag,No
+[MiningMethods]
+Underground Room and Pillar Mine,1.000000
+Vertical-crater-retreat Mine,0.000000
+Shrinkage-stope Mine,0.000000
+[MillTypes]
+Flotation Mill - one product,No Special Equation
+[ModelComment]
+No Comment.
+[ModelOresAndGrades]
+Borealis           USNV     2340000.    0.001 0.000271        0.002130 
+Chinkuashih        TIWN     5017000.    0.090 0.000310        0.000950         
+El Indio           CILE     4770000.    5.020 0.001660        0.012200         
+Goldfield          USNV    14360000.    0.046 0.001050        0.000370         
+Iwato              JAPN      311400.    0.001 0.000830        0.001100         
+Kasuga             JAPN     1962000.    0.001 0.000360        0.000140         
+Mohave             USCA     1814000.    0.001 0.001030        0.004100         
+Stedman            USCA      754000.    1.800 0.001200        0.005100         
+Paradise Pk. (FMC) USNV     9070000.    0.000 0.000343        0.010280                
+[End]

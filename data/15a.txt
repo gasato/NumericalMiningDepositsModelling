@@ -1,0 +1,38 @@
+[ModelTitle]
+Wolframite-bearing quartz vein deposits {1992},Not Proprietary
+[ModelAuthor]
+Menzie, Jones, and Elliott(1992)
+[ModelReference]
+Menzie, W.D., Jones, G.M., and Elliott, J.E., 1992, Tungsten-Grades and tonnages of some deposits, in DeYoung, J.H., Jr., and Hammarstrom, J.M., eds., Contributions to commodity geology research: U.S. Geological Survey Bulletin 1877, p. J1-J7.
+[CoxSingerModelNumber]
+15a
+[DepositMinerals]
+W,Yes
+[MiningMethods]
+Underground Room and Pillar Mine,1.000000
+Cut and Fill Mine,0.000000
+Shrinkage-stope Mine,0.000000
+[MillTypes]
+Flotation Mill - one product,No Special Equation
+[ModelComment]
+No Comment.
+[ModelOresAndGrades]
+Panasqueira        Port    22000000.   0.36
+Xihuashan          PRC     9719000.    1.6
+Kami               Boli    4060000.    1.06
+Chicote Grande     Boli    2700000.    0.66
+Montredon          Fran    1580000.    0.72
+Pasto Bueno        PERU    1530000.    0.68
+Storeys Creek      AUTS    1365000.    0.83
+Hamme District     USNC    1300000.    0.7
+Los Condores       Argn    2500000.    0.5
+Grey River         CNNF    520000.     1.09
+Oakleigh Creek     AUTS    154000.     1.19
+San Martin         Argn    121000.     1.3
+Isla de Pinos      Cuba    55000.      1.36
+Carrock Fell       GRBR    50000.      1.0
+Needle Hill        HNKN    40500.      1.0
+Josefina           Argn    26910.      0.75
+Los Avestruces     Argn    2050000.    0.6
+Bir Tawilah        SADI    265000.     0.69
+[End]

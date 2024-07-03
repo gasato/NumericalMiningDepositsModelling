@@ -1,0 +1,66 @@
+[ModelTitle]
+Oolitic ironstones {1992},Not Proprietary
+[ModelAuthor]
+Orris(1992)
+[ModelReference]
+Orris, G.J., 1992, Grade and tonnage model of oolitic ironstones, in Bliss, J.D., ed., Developments in Mineral Deposit Modeling: U.S. Geological Survey Bulletin 2004, p. 41-43.
+[CoxSingerModelNumber]
+34f
+[DepositMinerals]
+Fe,Yes,Si,Yes,P,No,Mn,No,Ca,No,Al,No
+[MiningMethods]
+Underground Room and Pillar Mine,1.0
+Vertical-crater-retreat Mine,0.0
+Shrinkage-stope Mine,0.0
+[MillTypes]
+Flotation Mill - one product,No Special Equation
+Flotation Mill - two product,No Special Equation
+[ModelComment]
+Mining methods and mill types included to allow some economic analysis but they may not be appropriate.
+[ModelOresAndGrades]
+ Ait Amar            MRCO   27200000.    46.00    15.00              0.7            0.00         0.00               0.00
+ Anjou-Brittany Bsn  FRNC 1040000000.    51.00    13.00              0.9            0.20         2.80               5.50
+ Aswan               EGPT   81600000.    50.00     0.00              0.0            0.00         0.00               0.00
+ Banbury area        UKEN  360000000.    24.60     9.60             0.25            0.25        13.00               6.70
+ Birmingham          USAL 2112000000.    36.00    20.00             0.55            0.00         0.00               0.00
+ Boulhaut            MRCO    9100000.    46.00     0.00             0.00            0.00         0.00               0.00
+ Camdag              TRKY   31300000.    31.00     0.00             0.00            0.00         0.00               0.00
+ Cho-lu              CHNA    6300000.    43.40    25.20             0.16            0.06         0.00               0.00
+ Cleveland           UKEN  360000000.    28.50    12.00              0.5            0.25         4.40               9.60
+ Corby-N.H. SndInStn UKEN 2250000000.    35.00    12.00              0.3            0.15         3.60               7.00
+ Couthuin            BLGM  299000000.    35.00     5.00              0.2            0.30        14.00               4.00
+ Demir Hisar         YUGO   10000000.    27.00     0.00              0.0            0.00         0.00               0.00
+ E M.L.-G-Mltn Mwbry UKEN   72000000.    25.00    11.30              0.4            0.00         7.00               0.00
+ Frodnghm-Scnthrpe   UKEN 1270000000.    25.40     9.00             0.35            0.00        20.00               5.70
+ Gara Djebilet-Cntl  ALGR 2200000000.    53.50     0.00              0.6            0.00         0.00               0.00
+ Gara Djebilet-E.    ALGR  500000000.    45.00     0.00              0.6            0.00         0.00               0.00
+ Gara Djebilet-W.    ALGR 1000000000.    57.00     0.00              0.6            0.00         0.00               0.00
+ Hsin-yao            CHNA   15000000.    49.40    20.70              0.0            0.00         0.00               0.00
+ Imi n'Tourza        MRCO   45000000.    56.00     6.00              0.6            0.00         0.00               0.00
+ Isle of Raasay      UKSC   10000000.    27.50     0.00              0.0            0.00         0.00               0.00
+ Jebel Ank           TUNS   13600000.    48.00     8.00              1.0            0.40         1.20               5.80
+ Kerch               USSR 1800000000.    35.00    15.00              2.5            2.00         5.00               0.00
+ Langrial            PKTN    6900000.    40.00     0.00              0.0            0.00         0.00               0.00
+ Ljubija             YUGO  306000000.    37.70     8.30             1.82            0.00         0.00               0.00
+ Llwr Normandy bn    FRNC  810000000.    42.00    13.00              0.6            0.40         2.00               8.00
+ Ma-Yu-Kou           CHNA    3600000.    40.00     0.00              0.0            0.00         0.00               0.00
+ Moncorvo            PORT    9120000.    37.00    13.00             0.86            0.00         0.00               0.00
+ Musson-Halanzy      BLGM   18100000.    35.00     0.00              0.0            0.00         0.00               0.00
+ Ning-hsiang         CHNA   10900000.    51.90    17.20              0.1            0.00         0.00               0.00
+ Nucice              CZCL   18100000.    35.00    12.00              0.9            0.05         3.00               8.00
+ Nurra               ITLY    9200000.    47.00     0.00              0.0            0.00         0.00               0.00
+ Ouarzemine          MRCO    9100000.    40.00    12.00              0.5            0.00         0.00               0.00
+ Pang-chia-pu        CHNA   58500000.    47.00     0.00              0.0            0.00         0.00               0.00
+ Paz del Rio         CLBA   92000000.    48.00    10.00              1.0            0.00         0.00               0.00
+ Pretoria            SAFR 2700000000.    45.00    17.50              0.2            0.00         0.00               0.00
+ Salzgitter          GRMY 1630000000.    29.00    25.50              0.4            0.20         5.50               7.50
+ San-cha-kou         CHNA    3200000.    47.00     0.00              0.0            0.00         0.00               0.00
+ Settat              MRCO   54000000.    40.00    20.00              0.7            0.00         0.00               0.00
+ Sierra Grande       AGTN   72600000.    50.00     4.00              1.5            4.00         0.00               0.00
+ Sui-Ning            CHNA    4500000.    40.00     0.00              0.0            0.00         0.00               0.00
+ Sumadija            YUGO   10000000.    36.00    20.00             0.05            1.00         0.00               0.00
+ Tajmiste            YUGO  125000000.    34.50    16.50              0.7            0.00         0.00               0.00
+ Wabana              CNNF 1090000000.    51.30    11.20             0.83            3.13         4.93               0.00
+ Yen-tung-shan       CHNA   14800000.    47.40    21.64            0.133            0.18         0.62               0.00
+ Zditz               CZCL  118000000.    33.00    13.00              0.7            0.05         3.00              13.00
+[End]

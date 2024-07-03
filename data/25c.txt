@@ -1,0 +1,61 @@
+[ModelTitle]
+Epithermal veins Comstock-type {1986},Not Proprietary
+[ModelAuthor]
+Mosier, Sato, and Singer(1986)
+[ModelReference]
+Mosier, D.L., Sato, Takeo, and Singer, D.A., 1986, Grade and tonnage model of Comstock epithermal veins, in Cox, D.P., and Singer, D.A., eds., Mineral Deposit Models: U.S. Geological Survey Bulletin 1693, p. 151-153.
+[CoxSingerModelNumber]
+25c
+[DepositMinerals]
+Au,Yes,Ag,Yes
+[MiningMethods]
+[MillTypes]
+Heap Leach Mill,Special Equation
+2.293,6.16599e-011,1.706,0.414938
+[ModelComment]
+Special equations provided in 2001 by Don Singer, personal communication
+[ModelOresAndGrades]
+AURORA             USA    1700000.    0.0019   0.0203
+BODIE              USA    757000.     0.0058   0.0041
+BOVARD             USA    7000.       0.0030   0.0532
+CALICO             USA    410000.     0.00012  0.1230
+CALISTOGA          USA    175000.     0.00041  0.0480
+COMSTOCK           USA    17600000.   0.00146  0.0340
+DIVIDE             USA    121000.     0.00083  0.0827
+DOLORES            MEXI   334000.     0.00092  0.0483
+EL RINCON          MEXI   198000.     0.00027  0.0778
+FAIRVIEW           USA    1870000.    0.00044  0.0161
+FUKE               JAPA   372000.     0.00104  0.0008
+GOLD MOUNTAIN      USA    545000.     0.00096  0.0030
+GUANACEVI          MEXI   6400000.    0.00051  0.2170
+GUANAJUATO         MEXI   83000000.   0.00017  0.0374
+HOST.-PAQUILLA     MEXI   1080000.    0.00032  0.0476
+KATHERINE          USA    639000.     0.00062  0.0015
+KUSH.-ARAKAWA      JAPA   10500000.   0.00035  0.0032
+MOCHIKOSHI         JAPA   2030000.    0.00036  0.0052
+MOGOLLON           USA    1940000.    0.00058  0.0326
+NAWAJI             JAPA   402000.     0.00065  0.0105
+OATMAN             USA    3630000.    0.00206  0.0007
+OHGUCHI            JAPA   1630000.    0.0013   0.0010
+OHITO              JAPA   1250000.    0.0003   0.0009
+OLINGHOUSE         USA    24000.      0.0057   0.0038
+ORIENT             USA    611000.     0.00065  0.0005
+PATTERSON          USA    951000.     0.00024  0.1030
+REPUBLIC           USA    2270000.    0.0024   0.0140
+ROSARIO            HOND   3500000.    0.00027  0.0540
+SAND SPRINGS       USA    90000.      0.00072  0.0435
+SEARCHLIGHT        USA    614000.     0.00004  0.00006
+SEIKOSHI           JAPA   1180000.    0.00103  0.0337
+SEVEN TROUGHS      USA    99000.      0.00425  0.0215
+SHEEP TANK         USA    15000.      0.0012   0.0069
+SILVER CITY        USA    611000.     0.00097  0.0387
+TAIO               JAPA   9560000.    0.00033  0.0016
+TAYOLTITA          MEXI   7540000.    0.0011   0.0703
+TOI                JAPA   1110000.    0.00156  0.0194
+TONOPAH            USA    7810000.    0.00074  0.0698
+TUSCARORA          USA    405000.     0.00058  0.0082
+WEAVER             USA    69000.      0.0008   0.0008
+YUGASHIMA          JAPA   101000.     0.00237  0.0204
+[End]
+ JAPA   101000.     0.00237  0.0204
+[End]
