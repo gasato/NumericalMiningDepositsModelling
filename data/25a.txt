@@ -1,0 +1,40 @@
+[ModelTitle]
+Hot-spring Au-Ag {1992},Not Proprietary
+[ModelAuthor]
+Berger and Singer(1992)
+[ModelReference]
+Berger, B.R., and Singer, D.A., 1992, Grade and tonnage model of hot spring Au-Ag, in Bliss, J.D., ed., Developments in Mineral Deposit Modeling: U.S. Geological Survey Bulletin 2004, p. 23-25.
+[CoxSingerModelNumber]
+25a
+[DepositMinerals]
+Au,Yes,Ag,Yes
+[MiningMethods]
+Open Pit Mine for Hot Springs Au and Ag,1.0
+Underground Room and Pillar Mine,0.0
+Vertical-crater-retreat Mine,0.0
+[MillTypes]
+Heap Leach Mill,Special Equation
+2.293 6.16599e-11 1.706 0.414938
+CIP-electrowinning Mill,No Special Equation
+CIL-electrowinning Mill,No Special Equation
+[ModelComment]
+The open-pit mine and heap leach mill are to be used together.  For the other mining methods, use one of the other mills.
+[ModelOresAndGrades]
+ Atlanta         USNV        1000000. 0.000274 0.005480
+ Borealis        USNV        4170000. 0.000257 0.001714
+ Buckhorn        USNV        4540000. 0.000151 0.002005
+ Crowfoot        USNV       22680000. 0.000086 0.000000
+ Fire Creek      USNV         317400. 0.000206 0.000000
+ Florida Canyon  USNV       35870000. 0.000079 0.000000
+ Hasbrouck       USNV       11700000. 0.000100 0.002020
+ Hog Ranch       USNV       30000000. 0.000177 0.000009
+ Ivanhoe         USNV       75730000. 0.000117 0.000000
+ Lewis           USNV        9070000. 0.000137 0.000000
+ McLaughtin      USCA       18100000. 0.000548 0.000000
+ Mother Lode     USNV        4440000. 0.000185 0.000000
+ Paradise Peak   USNV       16480000. 0.000289 0.008018
+ Rawhide         USNV       35460000. 0.000114 0.001611
+ Round Mtn.      USNV      243800000. 0.000114 0.000211
+ Sleeper         USNV       47410000. 0.000166 0.000500
+ Wind Mtn.       USNV       13610000. 0.000072 0.001440
+[End]

@@ -1,0 +1,81 @@
+{
+  "$id": "https://example.com/geographical-location.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Numerical Deposit Models",
+  "description": "USGS Deposit Models Data",
+  "required": [ "ModelTitle", "ModelAuthor", "ModelReference", "CoxSingerModelNumber", "DepositMinerals", "MiningMethods", "MillTypes", "ModelComment", "ModelOresAndGrades" ],
+  "type": "object",
+  "properties": {
+    "ModelTitle": {
+      "description": "Model title-name",
+      "type": "string"
+    },
+    "ModelAuthor": {
+      "description": "Author Name",
+      "type": "string"
+    },
+    "ModelReference": {
+      "description": "Bibliographic references",
+      "type": "array",
+      "reference":{
+        "type": "string"
+       },
+    },
+    "CoxSingerModelNumber": {
+      "description": "Numerical model USGS code",
+      "type": "string"
+    },
+    "DepositMinerals": {
+      "description": "List of ore presented",
+      "type": "array",
+      "ore":{
+        "type": "string"
+      },
+      "TrueFalse":{
+        "type": "number"
+      },
+    },
+    "MiningMethods": {
+      "description": "List of Mining methods",
+      "type": "array",
+      "MiningMethod": {
+         "type": "string"
+      },
+    },
+    "MillTypes": {
+      "description": "List of mill types",
+      "type": "array",
+      "MillType": {
+        "type": "string"
+      },
+    },
+    "ModelComment": {
+      "description": "Comments",
+      "type": "string"
+    },
+    "ModelOresAndGrades": {
+      "description": "table name, location, tonnage, grades",
+      "type": "array",
+      "DepositName":{
+        "type":"string"
+      },
+      "DepositLocation":{
+        "type": "string"
+      },
+      "tonnage":{
+        "type": "number"
+      },
+      "grades":{
+        "type": "array",
+        "ore":{
+          "description" : "Ore name",
+          "type": "string"
+        },
+        "grade":{
+          "description" : "Ore grade",
+          "type": "number"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+[ModelTitle]
+Epithermal veins Creede-type {1986},Not Proprietary
+[ModelAuthor]
+Mosier, Sato,and Singer(1986)
+[ModelReference]
+Mosier, D.L., Sato, Takeo, and Singer, D.A., 1986, Grade and tonnage model of Creede epithermal veins, in Cox, D.P., and Singer, D.A., eds., Mineral Deposit Models: U.S. Geological Survey Bulletin 1693, p. 146-149.
+[CoxSingerModelNumber]
+25b
+[DepositMinerals]
+Au,No,Ag,No,Cu,Yes,Pb,Yes,Zn,Yes
+[MiningMethods]
+Underground Room and Pillar Mine,1.0
+Vertical-crater-retreat Mine,0.0
+Shrinkage-stope Mine,0.0
+[MillTypes]
+Flotation Mill - one product,No Special Equation
+Flotation Mill - two product,No Special Equation
+Flotation Mill - three product,No Special Equation
+[ModelComment]
+No comment.
+[ModelOresAndGrades]
+ANIMAS            USA    8500000.    0.00034  0.0099          0.45            2.0             0.300
+BONANZA           USA    508000.     0.0001   0.0237          1.20            2.6             0.230
+CASAPALCA         PERU   17000000.   0.0001   0.0161          0.30            1.8             3.500
+CHAVIN            PERU   315000.     0.0      0.0125          0.80            8.0            12.500
+COCO MINA         NICA   10300000.   0.00017  0.0026          0.0             0.0             3.400
+COLQUI            PERU   5310000.    0.00014  0.0132          0.20            1.7             4.900
+CREEDE            USA    3900000.    0.00012  0.0714          0.10            4.0             1.700
+EL TIGRE          MEXI   1230000.    0.00086  0.1340          0.25            1.0             1.500
+EUREKA            USA    7200000.    0.00031  0.0050          0.24            2.3             2.940
+HOSOKURA          JAPA   14400000.   0.00002  0.0037          0.0             1.5             4.100
+KATA              PERU   100000.     0.0      0.0075          0.0             7.0             6.000
+LAKE CITY         USA    810000.     0.00027  0.0223          0.17            5.7             0.090
+LOS MANTIALES     ARGE   24000.      0.0      0.0011          0.0             6.0             9.000
+MADRIGAL          PERU   1380000.    0.0      0.0110          1.97            2.8             4.900
+NOGAL             USA    43000.      0.0011   0.0044          0.0             7.1             0.400
+OGANE             JAPA   476000.     0.00042  0.0094          0.0             1.1             2.700
+OHE               JAPA   1920000.    0.00013  0.0057          0.10            0.9             2.500
+OPHIR             USA    766000.     0.00058  0.0171          0.10            2.0             0.007
+PACHUCA-R d MONTE MEXI   107000000.  0.00022  0.0461          0.04            0.2             0.750
+RED MOUNTAIN      USA    185000.     0.00051  0.0165          1.04            2.4             0.0
+RIO PALLANGA      PERU   4400000.    0.00002  0.0170          0.0             4.0             5.000
+SAI               JAPA   111000.     0.00003  0.0091          2.30            0.0             2.200
+SNEFFELS          USA    3240000.    0.00144  0.0223          0.45            2.2             2.100
+TELLURIDE         USA    23200000.   0.00055  0.0093          0.31            1.4             1.420
+TOYOHA            JAPA   7550000.    0.00003  0.0121          0.0             3.0             7.400
+URUACHIC          MEXI   33000.      0.0032   0.1360          0.15            1.6             0.200
+YATANI            JAPA   1270000.    0.00013  0.0050          0.10            2.3             4.600
+[End]

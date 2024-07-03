@@ -1,0 +1,42 @@
+[ModelTitle]
+Epithermal veins Sado-type {1986},Not Proprietary
+[ModelAuthor]
+Mosier and Sato(1986)
+[ModelReference]
+Mosier, D.L., and Sato, Takeo, 1986, Grade and tonnage model of Sado epithermal veins in Cox, D.P., and Singer, D.A., eds., Mineral deposit-grade tonnage models, U.S. Geological Survey Bulletin 1693, p. 155-157.
+[CoxSingerModelNumber]
+25D
+[DepositMinerals]
+Cu,Yes,Au,No,Pb,Yes,Ag,No,Zn,Yes
+[MiningMethods]
+Underground Room and Pillar Mine,1.0
+Vertical-crater-retreat Mine,0.0
+Shrinkage-stope Mine,0.0
+[MillTypes]
+Flotation Mill - one product,No Special Equation
+Flotation Mill - two product,No Special Equation
+Flotation Mill - three product,No Special Equation
+[ModelComment]
+Gold, chalcopyrite, sulfosalts, and argentite in vuggy veins hosted by felsic to intermediate volcanic rocks that overlie older volcanic sequences or igneous intrusions.
+[ModelOresAndGrades]
+BAJO               JAPN       368000.    0.000 0.000590            0.000        0.007660         0.000
+BENTEN             JAPN        21000.    0.900 0.000900            0.000        0.001380         0.000
+BRUNER             USNV        91000.    0.000 0.001700            0.003        0.007800         0.000
+CHITOSE            JAPN      1660000.    0.004 0.001390            0.000        0.006200         0.000
+GUADALUPE CALUO    MXCO      1540000.    0.002 0.004050            0.006        0.056900         0.000
+HAYDEN HILL        USCA       472000.    0.000 0.000996            0.000        0.002440         0.000
+HIGH GRADE         USCA        31000.    0.000 0.000990            0.000        0.000550         0.000
+INNAI              JAPN        83000.    0.000 0.000300            0.000        0.037100         0.000
+KAWASAKI           JAPN        74000.    3.120 0.000017            0.000        0.002880         0.000
+KOYAMA             JAPN       385000.    1.000 0.000840            0.000        0.000610         0.250
+LA LIBERTAD        MXCO       166000.    0.000 0.000080            0.000        0.040000         0.000
+MAMURO             JAPN       126000.    0.000 0.000380            0.000        0.004380         0.000
+MIZOBE             JAPN       221000.    0.000 0.000300            0.000        0.001110         0.000
+NAGAMATSU          JAPN      1430000.    0.830 0.000006            0.000        0.003150         0.000
+SADO               JAPN     15000000.    0.040 0.000510            0.000        0.015300         0.000
+SANEI              JAPN        93000.    0.740 0.001400            0.000        0.000270         0.000
+TAKAHATA           JAPN       414000.    0.000 0.000740            0.000        0.000700         0.000
+TAKATAMA           JAPN      5903000.    0.000 0.000330            0.000        0.003120         0.000
+TAKENO             JAPN      1145000.    0.000 0.000270            0.000        0.018600         0.000
+WINTERS            USCA        17000.    0.000 0.002090            0.000        0.001470         0.000
+[End]
